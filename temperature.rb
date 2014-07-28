@@ -1,14 +1,16 @@
-todays_temperature = 80
+Hey!!! It's a good day!
 
-if todays_temperature > 90
+# todays_temperature = 80
 
-		puts "I'm going hiking!"
+# if todays_temperature > 90
 
-end
-
-
-# if 10 == 5+5
-# 	puts "Ten is still ten! All Right!"
-
+# 		puts "I'm going hiking!"
 
 # end
+
+
+# # if 10 == 5+5
+# # 	puts "Ten is still ten! All Right!"
+
+
+# # end
